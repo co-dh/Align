@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Unix : pwd",
+        "command": "pwd"
+    },
+
+    {
+        "caption": "Align : align",
+        "command": "align"
+    }
+]	

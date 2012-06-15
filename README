@@ -1,0 +1,9 @@
+An alignment plugin for sublime. 
+Usage :
+	1) Select lines of text you want to align. 
+	2) move the cursor to the character that you want to align, for example, (, = )
+	3) Choose Align from Command Palette.
+
+This plugin can be easily ported to other editor. All sublime related code are in align.py.
+
+
